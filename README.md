@@ -4,5 +4,5 @@ This repository contains both the React Frontend **card-ui** and Spring Boot Bac
 
 ## 📂 Project Structure
 cards-app/
-├── card-ui/ # React app, UI for creating/searching cards
-├── card-service/ # Spring Boot REST API for card management
+|--- card-ui/ # React app, UI for creating/searching cards
+|--- card-service/ # Spring Boot REST API for card management
