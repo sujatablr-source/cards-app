@@ -1,0 +1,5 @@
+interface Card {
+  cardHolderName: string;
+  cardNumber: string;
+  createdDate: string;
+}
